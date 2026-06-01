@@ -1,6 +1,6 @@
 # 💻 Algoritmos e Lógica de Programação
 
-Bem-vindo ao meu repositório de estudos de programação! Este espaço é dedicado ao registro da minha evolução técnica, contendo exercícios, projetos e algoritmos desenvolvidos durante a minha graduação em **Análise e Desenvolvimento de Sistemas (ADS)**[cite: 1].
+Bem-vindo ao meu repositório de estudos de programação! Este espaço é dedicado ao registro da minha evolução técnica, contendo exercícios, projetos e algoritmos desenvolvidos durante a minha graduação em **Análise e Desenvolvimento de Sistemas (ADS)**.
 
 ## 📌 Sobre o Repositório
 O objetivo deste repositório é servir como um histórico de aprendizado e portfólio técnico. Aqui você encontrará:
@@ -15,7 +15,7 @@ Para facilitar a navegação, o repositório está organizado por semestres:
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagens:** C (até o momento)
-* **Ambiente:** VS Code e compilador GCC (MinGW).[cite: 1]
+* **Ambiente:** VS Code e compilador GCC (MinGW).
 
 ---
 *“A mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original.”*
