@@ -10,6 +10,21 @@ O jogo possui três grandes áreas exploráveis:
 2. **Templo Sagrado:** Um local de paz onde um monge pode curar suas feridas ou você pode encontrar relíquias antigas.
 3. **Caverna Escura:** Uma área de alto risco que exige o gerenciamento de **tochas**. Explorar sem luz consome muito mais pontos de vida!
 
+## ⚠️ Restrições do Desafio (Escopo Acadêmico)
+Um dos grandes diferenciais técnicos deste projeto foi o respeito rigoroso às limitações impostas no início do semestre. O código foi desenvolvido **sem o uso de recursos avançados** que ainda não haviam sido lecionados pela professora, tais como:
+* ❌ Funções personalizadas (`void`, `int` com parâmetros, etc.);
+* ❌ Vetores (Arrays) e Matrizes;
+* ❌ Bibliotecas externas além das padrões essenciais (`<stdio.h>` e `<stdbool.h>`).
+
+Toda a complexidade e inteligência do jogo foram construídas utilizando exclusivamente:
+* **Estruturas Condicionais:** `if`, `else if`, `else` e `switch-case`.
+* **Estruturas de Repetição (Laços):** Loops `do-while` e `while` para persistência dos menus e mecânicas de jogo.
+* **Operadores de Todos os Tipos:**
+  * **Aritméticos:** Adição (`+`), subtração (`-`), multiplicação (`*`), divisão (`/`) e módulo/resto da divisão (`%`) para cálculos de status e dano.
+  * **Lógicos:** E (`&&`) e OU (`||`) para validações compostas nas tomadas de decisão.
+  * **Relacionais:** Igualdade (`==`), diferença (`!=`), maior que (`>`), menor que (`<`), maior ou igual (`>=`) e menor ou igual (`<=`) para checagem de regras e limites.
+  * **Atribuição e Incremento:** Atribuição simples (`=`), atribuições compostas (`+=`, `-=`) e operadores de incremento/decremento (`++`, `--`).
+
 ## 🛠️ Recursos Técnicos Implementados
 * **Estruturas de Repetição:** Loops `do-while` controlam o fluxo contínuo do menu principal e dos submenus de exploração.
 * **Estruturas de Decisão:** Blocos `switch-case` aninhados gerenciam as escolhas de caminhos e ações do jogador.
