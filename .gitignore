@@ -1,0 +1,11 @@
+# Ignorar arquivos executáveis compilados
+*.exe
+*.out
+*.app
+*.o
+*.obj
+programa
+a.out
+.vscode/
+*.layout
+*.win
