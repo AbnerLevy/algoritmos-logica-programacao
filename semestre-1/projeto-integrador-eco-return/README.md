@@ -51,3 +51,21 @@ Clone the repository and navigate to the project folder:
 ```bash
 git clone [https://github.com/AbnerLevy/algoritmos-logica-programacao.git](https://github.com/AbnerLevy/algoritmos-logica-programacao.git)
 cd semestre-1/projeto-integrador-eco-return
+```
+---
+
+### Future Improvements
+IoT Sensor Integration: Implement direct communication between the totem scale and the database using ESP32.
+AI Sorting: Use computer vision to automatically identify the type of waste deposited.
+Collector Mobile App: An offline version of the work order for low-connectivity areas.
+
+### Authors & Project Team
+Abner Levy - Lead Developer & UI/UX Designer - GitHub
+Alerrandro Braz -
+Carlos Gabriel -
+Jamile Keiller -
+Julia Lucena -
+
+Academic Advisor: (To be defined)
+
+Tech English Professor: Prof. Leonardo Trevas
