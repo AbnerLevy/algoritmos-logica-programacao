@@ -38,20 +38,46 @@ Because this application processes residential location data and collector ident
 
 ---
 
-## Getting Started (Local Development)
+## How to View and Interact (Prototype)
 
-### 1. Prerequisites
-Ensure you have installed:
-*   [Git](https://git-scm.com)
-*   [Node.js](https://nodejs.org/) (v18.0.0 or higher)
-*   [Java JDK 17+](https://www.oracle.com/java/)
+This project consists of a **Functional High-Fidelity Prototype** aimed at validating the user experience (UI/UX), automation flow, and hardware feasibility of the **EcoReturn** totem. Since this is a conception and design deliverable, there is no source code compilation or local backend setup required.
 
-### 2. Configuration
-Clone the repository and navigate to the project folder:
-```bash
-git clone [https://github.com/AbnerLevy/algoritmos-logica-programacao.git](https://github.com/AbnerLevy/algoritmos-logica-programacao.git)
-cd semestre-1/projeto-integrador-eco-return
-```
+### Prerequisites
+* A modern web browser of your choice (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, etc.).
+* An active internet connection.
+
+### Direct Environment Access
+You can interact directly with the high-fidelity ecosystem by clicking the link below:
+
+**[Launch Interactive EcoReturn Prototype (Figma)](https://www.figma.com/make/2GHMsMSmBQYxj4lBDAvedu/Ecoreturn-totem?code-node-id=0-9&p=f&t=UmCmaw5gJNofHuwa-0&fullscreen=1)**
+
+---
+
+### Usability Test Script (User Flow)
+
+When opening the prototype link, you can simulate the full step-by-step journey of a Collector interacting with the hardware components engineered for the Totem:
+
+* **Biometric Login:** Click on the fingerprint reader component area to simulate a secure login mapped to the collector's pre-registered profile.
+* **Route Generation:** Follow the on-screen prompts on the vertical display (9:16 aspect ratio) and watch the simulation trigger a thermal ticket printout featuring an optimized collection route.
+* **Weight Verification:** Interact with the side digital scale to confirm the real-time weight of the e-waste against the estimate provided in the initial user request.
+
+### Project Stack & Tools
+
+Instead of production codebases, this conceptual prototype is powered by a modern design and orchestration stack:
+
+* **Figma:** High-fidelity interface design, interactive state transitions, and component animations.
+* **Notion:** Requirements gathering, architecture documentation, and task management.
+* **Markdown:** Documentation layout, repository indexing, and structural guidelines.
+
+### Totem Hardware Specifications
+
+To bridge digital design with physical engineering, the prototype directly maps out the physical constraints and components mapped for the final hardware setup:
+
+* **Display/Monitor:** Professional vertical display orientation featuring a native 9:16 aspect ratio.
+* **Authentication Module:** Integrated USB Biometric fingerprint scanner for rapid operator recognition.
+* **Output Module:** Internal 80mm thermal receipt printer for printing out localized routing tickets.
+* **Weight Input:** Industrial platform scale securely mounted to the lateral chassis of the totem.
+
 ---
 
 ### Future Improvements
@@ -60,12 +86,11 @@ AI Sorting: Use computer vision to automatically identify the type of waste depo
 Collector Mobile App: An offline version of the work order for low-connectivity areas.
 
 ### Authors & Project Team
-Abner Levy - Lead Developer & UI/UX Designer - GitHub
-Alerrandro Braz -
-Carlos Gabriel -
-Jamile Keiller -
-Julia Lucena -
+Abner Levy - Front-End Developer
+Alerrandro Braz - Team Leader
+Carlos Gabriel - Back-End Developer
+Jamile Keiller - UI/UX Designer
+Julia Lucena - UI/UX Designer
 
-Academic Advisor: (To be defined)
-
+Academic Advisor: 
 Tech English Professor: Prof. Leonardo Trevas
