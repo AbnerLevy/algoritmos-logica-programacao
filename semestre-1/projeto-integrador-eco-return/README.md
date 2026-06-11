@@ -81,16 +81,22 @@ To bridge digital design with physical engineering, the prototype directly maps 
 ---
 
 ### Future Improvements
-IoT Sensor Integration: Implement direct communication between the totem scale and the database using ESP32.
-AI Sorting: Use computer vision to automatically identify the type of waste deposited.
-Collector Mobile App: An offline version of the work order for low-connectivity areas.
+
+* **IoT Sensor Integration:** Implement direct communication between the totem scale and the database using ESP32.
+* **AI Sorting:** Use computer vision to automatically identify the type of waste deposited.
+* **Collector Mobile App:** An offline version of the work order for low-connectivity areas.
 
 ### Authors & Project Team
-Abner Levy - Front-End Developer
-Alerrandro Braz - Team Leader
-Carlos Gabriel - Back-End Developer
-Jamile Keiller - UI/UX Designer
-Julia Lucena - UI/UX Designer
 
-Academic Advisor: 
-Tech English Professor: Prof. Leonardo Trevas
+**Abner Levy** - Front-End Developer  
+**Alerrandro Braz** - Team Leader  
+**Carlos Gabriel** - Back-End Developer  
+**Jamile Keiller** - UI/UX Designer  
+**Julia Lucena** - UI/UX Designer
+
+**Academic Advisor:**  
+**Tech English Professor:** Prof. Leonardo Trevas  
+**Extension course & Interaction Design Professor:** Prof. Samantha Pimentel  
+**Project Management Professor:** Prof. Romulo  
+**Inovation Professor:** Prof. Maria Teresa  
+
