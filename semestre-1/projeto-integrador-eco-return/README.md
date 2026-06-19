@@ -97,6 +97,7 @@ To bridge digital design with physical engineering, the prototype directly maps 
 **Academic Advisor:**  
 **Tech English Professor:** Prof. Leonardo Trevas  
 **Extension course & Interaction Design Professor:** Prof. Samantha Pimentel  
+**Data Base SQL Professor:** Prof. Heuryk Wylk  
 **Project Management Professor:** Prof. Romulo  
 **Inovation Professor:** Prof. Maria Teresa  
 
